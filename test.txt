@@ -1,5 +1,6 @@
 Hello
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 Welcome
 
@@ -9,3 +10,8 @@ ABC
 >>>>>>> Stashed changes
 NNNNNNNNNNN
 MMMMMMMMMMM
+=======
+VVVVVVVVV
+BBBBBBBBBBBB
+CCCCCCCCCCCCCCCCCCC
+>>>>>>> Stashed changes
