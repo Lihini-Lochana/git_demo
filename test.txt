@@ -1,5 +1,9 @@
 Hello
+<<<<<<< Updated upstream
 
 Welcome
 
 I'm Lochana
+=======
+ABC
+>>>>>>> Stashed changes
